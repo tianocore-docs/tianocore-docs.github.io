@@ -38,121 +38,108 @@ available when reading the **HTML** versions of the documents. Document issues a
 be entered in [Tianocore Bugzilla](https://bugzilla.tianocore.org).
 
 * **_EDK II Build Specification_** \[
-[HTML   ](https://www.gitbook.com/read/book/edk2-docs/edk-ii-build-specification),
-[PDF    ](https://www.gitbook.com/download/pdf/book/edk2-docs/edk-ii-build-specification),
-[Mobi   ](https://www.gitbook.com/download/mobi/book/edk2-docs/edk-ii-build-specification),
-[ePub   ](https://www.gitbook.com/download/epub/book/edk2-docs/edk-ii-build-specification),
-[Gitbook](https://www.gitbook.com/book/edk2-docs/edk-ii-build-specification),
+[HTML   ](https://tianocore-docs.github.io/edk2-BuildSpecification/draft/),
+[PDF    ](https://tianocore-docs.github.io/edk2-BuildSpecification/draft/edk2-BuildSpecification-draft.pdf),
+[Mobi   ](https://tianocore-docs.github.io/edk2-BuildSpecification/draft/edk2-BuildSpecification-draft.mobi),
+[ePub   ](https://tianocore-docs.github.io/edk2-BuildSpecification/draft/edk2-BuildSpecification-draft.epub),
 [GitHub ](https://github.com/tianocore-docs/edk2-BuildSpecification)
 \]
 
 * **_EDK II DEC Specification_** \[
-[HTML   ](https://www.gitbook.com/read/book/edk2-docs/edk-ii-dec-specification),
-[PDF    ](https://www.gitbook.com/download/pdf/book/edk2-docs/edk-ii-dec-specification),
-[Mobi   ](https://www.gitbook.com/download/mobi/book/edk2-docs/edk-ii-dec-specification),
-[ePub   ](https://www.gitbook.com/download/epub/book/edk2-docs/edk-ii-dec-specification),
-[Gitbook](https://www.gitbook.com/book/edk2-docs/edk-ii-dec-specification),
+[HTML   ](https://tianocore-docs.github.io/edk2-DecSpecification/draft/),
+[PDF    ](https://tianocore-docs.github.io/edk2-DecSpecification/draft/edk2-DecSpecification-draft.pdf),
+[Mobi   ](https://tianocore-docs.github.io/edk2-DecSpecification/draft/edk2-DecSpecification-draft.mobi),
+[ePub   ](https://tianocore-docs.github.io/edk2-DecSpecification/draft/edk2-DecSpecification-draft.epub),
 [GitHub ](https://github.com/tianocore-docs/edk2-DecSpecification)
 \]
 
 * **_EDK II INF Specification_** \[
-[HTML   ](https://www.gitbook.com/read/book/edk2-docs/edk-ii-inf-specification),
-[PDF    ](https://www.gitbook.com/download/pdf/book/edk2-docs/edk-ii-inf-specification),
-[Mobi   ](https://www.gitbook.com/download/mobi/book/edk2-docs/edk-ii-inf-specification),
-[ePub   ](https://www.gitbook.com/download/epub/book/edk2-docs/edk-ii-inf-specification),
-[Gitbook](https://www.gitbook.com/book/edk2-docs/edk-ii-inf-specification),
+[HTML   ](https://tianocore-docs.github.io/edk2-InfSpecification/draft/),
+[PDF    ](https://tianocore-docs.github.io/edk2-InfSpecification/draft/edk2-InfSpecification-draft.pdf),
+[Mobi   ](https://tianocore-docs.github.io/edk2-InfSpecification/draft/edk2-InfSpecification-draft.mobi),
+[ePub   ](https://tianocore-docs.github.io/edk2-InfSpecification/draft/edk2-InfSpecification-draft.epub),
 [GitHub ](https://github.com/tianocore-docs/edk2-InfSpecification)
 \]
 
 * **_EDK II DSC Specification_** \[
-[HTML   ](https://www.gitbook.com/read/book/edk2-docs/edk-ii-dsc-specification),
-[PDF    ](https://www.gitbook.com/download/pdf/book/edk2-docs/edk-ii-dsc-specification),
-[Mobi   ](https://www.gitbook.com/download/mobi/book/edk2-docs/edk-ii-dsc-specification),
-[ePub   ](https://www.gitbook.com/download/epub/book/edk2-docs/edk-ii-dsc-specification),
-[Gitbook](https://www.gitbook.com/book/edk2-docs/edk-ii-dsc-specification/details),
+[HTML   ](https://tianocore-docs.github.io/edk2-DscSpecification/draft/),
+[PDF    ](https://tianocore-docs.github.io/edk2-DscSpecification/draft/edk2-DscSpecification-draft.pdf),
+[Mobi   ](https://tianocore-docs.github.io/edk2-DscSpecification/draft/edk2-DscSpecification-draft.mobi),
+[ePub   ](https://tianocore-docs.github.io/edk2-DscSpecification/draft/edk2-DscSpecification-draft.epub),
 [GitHub ](https://github.com/tianocore-docs/edk2-DscSpecification)
 \]
 
 * **_EDK II FDF Specification_** \[
-[HTML   ](https://www.gitbook.com/read/book/edk2-docs/edk-ii-fdf-specification),
-[PDF    ](https://www.gitbook.com/download/pdf/book/edk2-docs/edk-ii-fdf-specification),
-[Mobi   ](https://www.gitbook.com/download/mobi/book/edk2-docs/edk-ii-fdf-specification),
-[ePub   ](https://www.gitbook.com/download/epub/book/edk2-docs/edk-ii-fdf-specification),
-[Gitbook](https://www.gitbook.com/book/edk2-docs/edk-ii-fdf-specification),
+[HTML   ](https://tianocore-docs.github.io/edk2-FdfSpecification/draft/),
+[PDF    ](https://tianocore-docs.github.io/edk2-FdfSpecification/draft/edk2-FdfSpecification-draft.pdf),
+[Mobi   ](https://tianocore-docs.github.io/edk2-FdfSpecification/draft/edk2-FdfSpecification-draft.mobi),
+[ePub   ](https://tianocore-docs.github.io/edk2-FdfSpecification/draft/edk2-FdfSpecification-draft.epub),
 [GitHub ](https://github.com/tianocore-docs/edk2-FdfSpecification)
 \]
 
 * **_EDK II UNI Specification_** \[
-[HTML   ](https://www.gitbook.com/read/book/edk2-docs/edk-ii-uni-specification),
-[PDF    ](https://www.gitbook.com/download/pdf/book/edk2-docs/edk-ii-uni-specification),
-[Mobi   ](https://www.gitbook.com/download/mobi/book/edk2-docs/edk-ii-uni-specification),
-[ePub   ](https://www.gitbook.com/download/epub/book/edk2-docs/edk-ii-uni-specification),
-[Gitbook](https://www.gitbook.com/book/edk2-docs/edk-ii-uni-specification),
+[HTML   ](https://tianocore-docs.github.io/edk2-UniSpecification/draft/),
+[PDF    ](https://tianocore-docs.github.io/edk2-UniSpecification/draft/edk2-UniSpecification-draft.pdf),
+[Mobi   ](https://tianocore-docs.github.io/edk2-UniSpecification/draft/edk2-UniSpecification-draft.mobi),
+[ePub   ](https://tianocore-docs.github.io/edk2-UniSpecification/draft/edk2-UniSpecification-draft.epub),
 [GitHub ](https://github.com/tianocore-docs/edk2-UniSpecification)
 \]
 
 * **_EDK II Image Definition IDF File Format Specification_** \[
-[HTML   ](https://www.gitbook.com/read/book/edk2-docs/edk-ii-idf-specification),
-[PDF    ](https://www.gitbook.com/download/pdf/book/edk2-docs/edk-ii-idf-specification),
-[Mobi   ](https://www.gitbook.com/download/mobi/book/edk2-docs/edk-ii-idf-specification),
-[ePub   ](https://www.gitbook.com/download/epub/book/edk2-docs/edk-ii-idf-specification),
-[Gitbook](https://www.gitbook.com/book/edk2-docs/edk-ii-idf-specification),
+[HTML   ](https://tianocore-docs.github.io/edk2-IdfSpecification/draft/),
+[PDF    ](https://tianocore-docs.github.io/edk2-IdfSpecification/draft/edk2-IdfSpecification-draft.pdf),
+[Mobi   ](https://tianocore-docs.github.io/edk2-IdfSpecification/draft/edk2-IdfSpecification-draft.mobi),
+[ePub   ](https://tianocore-docs.github.io/edk2-IdfSpecification/draft/edk2-IdfSpecification-draft.epub),
 [GitHub ](https://github.com/tianocore-docs/edk2-IdfSpecification)
 \]
 
 * **_EDK II VFR Specification_** \[
-[HTML   ](https://www.gitbook.com/read/book/edk2-docs/edk-ii-vfr-specification),
-[PDF    ](https://www.gitbook.com/download/pdf/book/edk2-docs/edk-ii-vfr-specification),
-[Mobi   ](https://www.gitbook.com/download/mobi/book/edk2-docs/edk-ii-vfr-specification),
-[ePub   ](https://www.gitbook.com/download/epub/book/edk2-docs/edk-ii-vfr-specification),
-[Gitbook](https://www.gitbook.com/book/edk2-docs/edk-ii-vfr-specification),
+[HTML   ](https://tianocore-docs.github.io/edk2-VfrSpecification/draft/),
+[PDF    ](https://tianocore-docs.github.io/edk2-VfrSpecification/draft/edk2-VfrSpecification-draft.pdf),
+[Mobi   ](https://tianocore-docs.github.io/edk2-VfrSpecification/draft/edk2-VfrSpecification-draft.mobi),
+[ePub   ](https://tianocore-docs.github.io/edk2-VfrSpecification/draft/edk2-VfrSpecification-draft.epub),
 [GitHub ](https://github.com/tianocore-docs/edk2-VfrSpecification)
 \]
 
 * **_EDK II Meta-Data Expression Syntax Specification_** \[
-[HTML   ](https://www.gitbook.com/read/book/edk2-docs/edk-ii-meta-data-expression-syntax-specification),
-[PDF    ](https://www.gitbook.com/download/pdf/book/edk2-docs/edk-ii-meta-data-expression-syntax-specification),
-[Mobi   ](https://www.gitbook.com/download/mobi/book/edk2-docs/edk-ii-meta-data-expression-syntax-specification),
-[ePub   ](https://www.gitbook.com/download/epub/book/edk2-docs/edk-ii-meta-data-expression-syntax-specification),
-[Gitbook](https://www.gitbook.com/book/edk2-docs/edk-ii-meta-data-expression-syntax-specification),
+[HTML   ](https://tianocore-docs.github.io/edk2-MetaDataExpressionSyntaxSpecification/draft/),
+[PDF    ](https://tianocore-docs.github.io/edk2-MetaDataExpressionSyntaxSpecification/draft/edk2-MetaDataExpressionSyntaxSpecification-draft.pdf),
+[Mobi   ](https://tianocore-docs.github.io/edk2-MetaDataExpressionSyntaxSpecification/draft/edk2-MetaDataExpressionSyntaxSpecification-draft.mobi),
+[ePub   ](https://tianocore-docs.github.io/edk2-MetaDataExpressionSyntaxSpecification/draft/edk2-MetaDataExpressionSyntaxSpecification-draft.epub),
 [GitHub ](https://github.com/tianocore-docs/edk2-MetaDataExpressionSyntaxSpecification)
 \]
 
 * **_EDK II PCD Specification_** \[
-[HTML   ](https://www.gitbook.com/read/book/edk2-docs/edk-ii-pcd-specification),
-[PDF    ](https://www.gitbook.com/download/pdf/book/edk2-docs/edk-ii-pcd-specification),
-[Mobi   ](https://www.gitbook.com/download/mobi/book/edk2-docs/edk-ii-pcd-specification),
-[ePub   ](https://www.gitbook.com/download/epub/book/edk2-docs/edk-ii-pcd-specification),
-[Gitbook](https://www.gitbook.com/book/edk2-docs/edk-ii-pcd-specification),
+[HTML   ](https://tianocore-docs.github.io/edk2-PcdSpecification/draft/),
+[PDF    ](https://tianocore-docs.github.io/edk2-PcdSpecification/draft/edk2-PcdSpecification-draft.pdf),
+[Mobi   ](https://tianocore-docs.github.io/edk2-PcdSpecification/draft/edk2-PcdSpecification-draft.mobi),
+[ePub   ](https://tianocore-docs.github.io/edk2-PcdSpecification/draft/edk2-PcdSpecification-draft.epub),
 [GitHub ](https://github.com/tianocore-docs/edk2-PcdSpecification)
 \]
 
 * **_EDK II C Coding Standards Specification_** \[
-[HTML   ](https://www.gitbook.com/read/book/edk2-docs/edk-ii-c-coding-standards-specification),
-[PDF    ](https://www.gitbook.com/download/pdf/book/edk2-docs/edk-ii-c-coding-standards-specification),
-[Mobi   ](https://www.gitbook.com/download/mobi/book/edk2-docs/edk-ii-c-coding-standards-specification),
-[ePub   ](https://www.gitbook.com/download/epub/book/edk2-docs/edk-ii-c-coding-standards-specification),
-[Gitbook](https://www.gitbook.com/book/edk2-docs/edk-ii-c-coding-standards-specification),
+[HTML   ](https://tianocore-docs.github.io/edk2-CCodingStandardsSpecification/draft/),
+[PDF    ](https://tianocore-docs.github.io/edk2-CCodingStandardsSpecification/draft/edk2-CCodingStandardsSpecification-draft.pdf),
+[Mobi   ](https://tianocore-docs.github.io/edk2-CCodingStandardsSpecification/draft/edk2-CCodingStandardsSpecification-draft.mobi),
+[ePub   ](https://tianocore-docs.github.io/edk2-CCodingStandardsSpecification/draft/edk2-CCodingStandardsSpecification-draft.epub),
 [GitHub ](https://github.com/tianocore-docs/edk2-CCodingStandardsSpecification)
 \]
 
 * **_EDK II Driver Writer's Guide for UEFI 2.3.1_** \[
-[HTML   ](https://edk2-docs.gitbooks.io/edk-ii-uefi-driver-writer-s-guide/content),
-[PDF    ](https://legacy.gitbook.com/download/pdf/book/edk2-docs/edk-ii-uefi-driver-writer-s-guide),
-[Mobi   ](https://legacy.gitbook.com/download/mobi/book/edk2-docs/edk-ii-uefi-driver-writer-s-guide),
-[ePub   ](https://legacy.gitbook.com/download/epub/book/edk2-docs/edk-ii-uefi-driver-writer-s-guide),
-[Gitbook](https://legacy.gitbook.com/book/edk2-docs/edk-ii-uefi-driver-writer-s-guide),
+[HTML   ](https://tianocore-docs.github.io/edk2-UefiDriverWritersGuide/draft/),
+[PDF    ](https://tianocore-docs.github.io/edk2-UefiDriverWritersGuide/draft/edk2-UefiDriverWritersGuide-draft.pdf),
+[Mobi   ](https://tianocore-docs.github.io/edk2-UefiDriverWritersGuide/draft/edk2-UefiDriverWritersGuide-draft.mobi),
+[ePub   ](https://tianocore-docs.github.io/edk2-UefiDriverWritersGuide/draft/edk2-UefiDriverWritersGuide-draft.epub),
 [GitHub ](https://github.com/tianocore-docs/edk2-UefiDriverWritersGuide)
 \]
 
 ---
 
 * **_EDK II Template Specification_** \[
-[HTML   ](https://www.gitbook.com/read/book/edk2-docs/edk-ii-template-specification),
-[PDF    ](https://www.gitbook.com/download/pdf/book/edk2-docs/edk-ii-template-specification),
-[Mobi   ](https://www.gitbook.com/download/mobi/book/edk2-docs/edk-ii-template-specification),
-[ePub   ](https://www.gitbook.com/download/epub/book/edk2-docs/edk-ii-template-specification),
-[Gitbook](https://www.gitbook.com/book/edk2-docs/edk-ii-template-specification),
+[HTML   ](https://tianocore-docs.github.io/edk2-TemplateSpecification/draft/),
+[PDF    ](https://tianocore-docs.github.io/edk2-TemplateSpecification/draft/edk2-TemplateSpecification-draft.pdf),
+[Mobi   ](https://tianocore-docs.github.io/edk2-TemplateSpecification/draft/edk2-TemplateSpecification-draft.mobi),
+[ePub   ](https://tianocore-docs.github.io/edk2-TemplateSpecification/draft/edk2-TemplateSpecification-draft.epub),
 [GitHub ](https://github.com/tianocore-docs/edk2-TemplateSpecification)
 \]
 
