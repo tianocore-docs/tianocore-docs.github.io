@@ -30,12 +30,11 @@ documentation.
 
 # EDK II GitBook Documents
 
-These are the latest draft revisions published using [Gitbook](https://legacy.gitbook.com/).
+These are the latest draft revisions.
 The source content for these documents are in GIT repositories in the
 [Tianocore-docs](https://github.com/tianocore-docs) organization hosted by [GitHub](https://github.com).
-Feedback on these documents may be provided using the [Gitbook](https://www.gitbook.com) commenting feature
-available when reading the **HTML** versions of the documents. Document issues and feature requests can also
-be entered in [Tianocore Bugzilla](https://bugzilla.tianocore.org).
+Feedback on these documents may be provided via the mailing list.
+Document issues and feature requests can also be entered in [Tianocore Bugzilla](https://bugzilla.tianocore.org).
 
 * **_EDK II Build Specification_** \[
 [HTML   ](https://tianocore-docs.github.io/edk2-BuildSpecification/draft/),
