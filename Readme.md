@@ -132,6 +132,102 @@ Document issues and feature requests can also be entered in [Tianocore Bugzilla]
 [GitHub ](https://github.com/tianocore-docs/edk2-UefiDriverWritersGuide)
 \]
 
+* **_EDK II Module Writer's Guide_** \[
+[HTML   ](https://tianocore-docs.github.io/edk2-ModuleWriteGuide/draft/),
+[PDF    ](https://tianocore-docs.github.io/edk2-ModuleWriteGuide/draft/edk2-ModuleWriteGuide-draft.pdf),
+[Mobi   ](https://tianocore-docs.github.io/edk2-ModuleWriteGuide/draft/edk2-ModuleWriteGuide-draft.mobi),
+[ePub   ](https://tianocore-docs.github.io/edk2-ModuleWriteGuide/draft/edk2-ModuleWriteGuide-draft.epub),
+[GitHub ](https://github.com/tianocore-docs/edk2-ModuleWriteGuide)
+\]
+
+* **_EDK II Secure Coding Guide_** \[
+[HTML   ](https://tianocore-docs.github.io/EDK_II_Secure_Coding_Guide/draft/),
+[PDF    ](https://tianocore-docs.github.io/EDK_II_Secure_Coding_Guide/draft/EDK_II_Secure_Coding_Guide-draft.pdf),
+[Mobi   ](https://tianocore-docs.github.io/EDK_II_Secure_Coding_Guide/draft/EDK_II_Secure_Coding_Guide-draft.mobi),
+[ePub   ](https://tianocore-docs.github.io/EDK_II_Secure_Coding_Guide/draft/EDK_II_Secure_Coding_Guide-draft.epub),
+[GitHub ](https://github.com/tianocore-docs/EDK_II_Secure_Coding_Guide)
+\]
+
+* **_EDK II Secure Code Review Guide_** \[
+[HTML   ](https://tianocore-docs.github.io/EDK_II_Secure_Code_Review_Guide/draft/),
+[PDF    ](https://tianocore-docs.github.io/EDK_II_Secure_Code_Review_Guide/draft/EDK_II_Secure_Code_Review_Guide-draft.pdf),
+[Mobi   ](https://tianocore-docs.github.io/EDK_II_Secure_Code_Review_Guide/draft/EDK_II_Secure_Code_Review_Guide-draft.mobi),
+[ePub   ](https://tianocore-docs.github.io/EDK_II_Secure_Code_Review_Guide/draft/EDK_II_Secure_Code_Review_Guide-draft.epub),
+[GitHub ](https://github.com/tianocore-docs/EDK_II_Secure_Code_Review_Guide)
+\]
+
+* **_EDK II Python Development Process and Coding Standard Specification_** \[
+[HTML   ](https://tianocore-docs.github.io/edk2-PythonDevelopmentProcessSpecification/draft/),
+[PDF    ](https://tianocore-docs.github.io/edk2-PythonDevelopmentProcessSpecification/draft/edk2-PythonDevelopmentProcessSpecification-draft.pdf),
+[Mobi   ](https://tianocore-docs.github.io/edk2-PythonDevelopmentProcessSpecification/draft/edk2-PythonDevelopmentProcessSpecification-draft.mobi),
+[ePub   ](https://tianocore-docs.github.io/edk2-PythonDevelopmentProcessSpecification/draft/edk2-PythonDevelopmentProcessSpecification-draft.epub),
+[GitHub ](https://github.com/tianocore-docs/edk2-PythonDevelopmentProcessSpecification)
+\]
+
+* **_EDK II Minimum Platform Specification_** \[
+[HTML   ](https://tianocore-docs.github.io/edk2-MinimumPlatformSpecification/draft/),
+[PDF    ](https://tianocore-docs.github.io/edk2-MinimumPlatformSpecification/draft/edk2-MinimumPlatformSpecification-draft.pdf),
+[Mobi   ](https://tianocore-docs.github.io/edk2-MinimumPlatformSpecification/draft/edk2-MinimumPlatformSpecification-draft.mobi),
+[ePub   ](https://tianocore-docs.github.io/edk2-MinimumPlatformSpecification/draft/edk2-MinimumPlatformSpecification-draft.epub),
+[GitHub ](https://github.com/tianocore-docs/edk2-MinimumPlatformSpecification)
+\]
+
+* **_Understanding the Trusted Boot Chain Implementation_** \[
+[HTML   ](https://tianocore-docs.github.io/edk2-TrustedBootChain/draft/),
+[PDF    ](https://tianocore-docs.github.io/edk2-TrustedBootChain/draft/edk2-TrustedBootChain-draft.pdf),
+[Mobi   ](https://tianocore-docs.github.io/edk2-TrustedBootChain/draft/edk2-TrustedBootChain-draft.mobi),
+[ePub   ](https://tianocore-docs.github.io/edk2-TrustedBootChain/draft/edk2-TrustedBootChain-draft.epub),
+[GitHub ](https://github.com/tianocore-docs/edk2-TrustedBootChain)
+\]
+
+* **_Understanding UEFI Secure Boot Chain_** \[
+[HTML   ](https://tianocore-docs.github.io/Understanding_UEFI_Secure_Boot_Chain/draft/),
+[PDF    ](https://tianocore-docs.github.io/Understanding_UEFI_Secure_Boot_Chain/draft/Understanding_UEFI_Secure_Boot_Chain-draft.pdf),
+[Mobi   ](https://tianocore-docs.github.io/Understanding_UEFI_Secure_Boot_Chain/draft/Understanding_UEFI_Secure_Boot_Chain-draft.mobi),
+[ePub   ](https://tianocore-docs.github.io/Understanding_UEFI_Secure_Boot_Chain/draft/Understanding_UEFI_Secure_Boot_Chain-draft.epub),
+[GitHub ](https://github.com/tianocore-docs/Understanding_UEFI_Secure_Boot_Chain)
+\]
+
+* **_Getting Started with UEFI HTTPS Boot on EDK II_** \[
+[HTML   ](https://tianocore-docs.github.io/EDKIIHttpsBootGettingStartedGuide/draft/),
+[PDF    ](https://tianocore-docs.github.io/EDKIIHttpsBootGettingStartedGuide/draft/EDKIIHttpsBootGettingStartedGuide-draft.pdf),
+[Mobi   ](https://tianocore-docs.github.io/EDKIIHttpsBootGettingStartedGuide/draft/EDKIIHttpsBootGettingStartedGuide-draft.mobi),
+[ePub   ](https://tianocore-docs.github.io/EDKIIHttpsBootGettingStartedGuide/draft/EDKIIHttpsBootGettingStartedGuide-draft.epub),
+[GitHub ](https://github.com/tianocore-docs/EDKIIHttpsBootGettingStartedGuide)
+\]
+
+* **_Getting Started Guide of EDKII HTTP Boot_** \[
+[HTML   ](https://tianocore-docs.github.io/EDKIIHttpBootGettingStartedGuide/draft/),
+[PDF    ](https://tianocore-docs.github.io/EDKIIHttpBootGettingStartedGuide/draft/EDKIIHttpBootGettingStartedGuide-draft.pdf),
+[Mobi   ](https://tianocore-docs.github.io/EDKIIHttpBootGettingStartedGuide/draft/EDKIIHttpBootGettingStartedGuide-draft.mobi),
+[ePub   ](https://tianocore-docs.github.io/EDKIIHttpBootGettingStartedGuide/draft/EDKIIHttpBootGettingStartedGuide-draft.epub),
+[GitHub ](https://github.com/tianocore-docs/EDKIIHttpBootGettingStartedGuide)
+\]
+
+* **_UEFI Driver HII Win Lab Guide_** \[
+[HTML   ](https://tianocore-docs.github.io/UEFI_Driver_HII_Win_Lab_Guide/draft/),
+[PDF    ](https://tianocore-docs.github.io/UEFI_Driver_HII_Win_Lab_Guide/draft/UEFI_Driver_HII_Win_Lab_Guide-draft.pdf),
+[Mobi   ](https://tianocore-docs.github.io/UEFI_Driver_HII_Win_Lab_Guide/draft/UEFI_Driver_HII_Win_Lab_Guide-draft.mobi),
+[ePub   ](https://tianocore-docs.github.io/UEFI_Driver_HII_Win_Lab_Guide/draft/UEFI_Driver_HII_Win_Lab_Guide-draft.epub),
+[GitHub ](https://github.com/tianocore-docs/UEFI_Driver_HII_Win_Lab_Guide)
+\]
+
+* **_A Tour Beyond BIOS - Security Enhancement to Mitigate Buffer Overflow in Unified Extensible Interface (UEFI)_** \[
+[HTML   ](https://tianocore-docs.github.io/ATBB-Mitigate_Buffer_Overflow_in_UEFI/draft/),
+[PDF    ](https://tianocore-docs.github.io/ATBB-Mitigate_Buffer_Overflow_in_UEFI/draft/ATBB-Mitigate_Buffer_Overflow_in_UEFI-draft.pdf),
+[Mobi   ](https://tianocore-docs.github.io/ATBB-Mitigate_Buffer_Overflow_in_UEFI/draft/ATBB-Mitigate_Buffer_Overflow_in_UEFI-draft.mobi),
+[ePub   ](https://tianocore-docs.github.io/ATBB-Mitigate_Buffer_Overflow_in_UEFI/draft/ATBB-Mitigate_Buffer_Overflow_in_UEFI-draft.epub),
+[GitHub ](https://github.com/tianocore-docs/ATBB-Mitigate_Buffer_Overflow_in_UEFI)
+\]
+
+* **_A Tour Beyond BIOS - Memory Protection in UEFI BIOS_** \[
+[HTML   ](https://tianocore-docs.github.io/ATBB-Memory_Protection_in_UEFI_BIOS/draft/),
+[PDF    ](https://tianocore-docs.github.io/ATBB-Memory_Protection_in_UEFI_BIOS/draft/ATBB-Memory_Protection_in_UEFI_BIOS-draft.pdf),
+[Mobi   ](https://tianocore-docs.github.io/ATBB-Memory_Protection_in_UEFI_BIOS/draft/ATBB-Memory_Protection_in_UEFI_BIOS-draft.mobi),
+[ePub   ](https://tianocore-docs.github.io/ATBB-Memory_Protection_in_UEFI_BIOS/draft/ATBB-Memory_Protection_in_UEFI_BIOS-draft.epub),
+[GitHub ](https://github.com/tianocore-docs/ATBB-Memory_Protection_in_UEFI_BIOS)
+\]
+
 ---
 
 * **_EDK II Template Specification_** \[
