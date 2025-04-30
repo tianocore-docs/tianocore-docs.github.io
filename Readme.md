@@ -16,7 +16,6 @@ The majority of the content in the EDK II open source project uses a
 * [EDK II](https://github.com/tianocore/tianocore.github.io/wiki/EDK-II)
 * [Getting Started with EDK II](https://github.com/tianocore/tianocore.github.io/wiki/Getting-Started-with-EDK-II)
 * [Mailing Lists](https://github.com/tianocore/tianocore.github.io/wiki/Mailing-Lists)
-* [TianoCore Bugzilla](https://bugzilla.tianocore.org)
 * [How To Contribute](https://github.com/tianocore/tianocore.github.io/wiki/How-To-Contribute)
 
 # EDK II Package Documentation using Doxygen
